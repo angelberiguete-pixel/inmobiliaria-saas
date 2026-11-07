@@ -1,0 +1,2 @@
+# Inmobiliaria SaaS — staging demo
+Independent Next.js app in its own repository. Configure Vercel root directory to repository root and framework Next.js. This is a NON-PRODUCTION mock with fictional properties. No actual lead submission, auth, payment, or database integration is enabled. Never expose /panel with real data before implementing authenticated server-side RBAC and RLS. SQL migration in supabase/migrations is a proposed schema, not applied. Run npm install, npm run typecheck, npm test, npm run build before deploying.
